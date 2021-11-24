@@ -1,9 +1,9 @@
 {
-    "routes": {
+  "routes": {
     "/": "index.html",
     "/login/": "login.html",
     "/sample/": "sample.html"
-  }
+  },
   "headers": {
     "/*": {
       "X-Author": "smolyakovalexandr",
