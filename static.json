@@ -1,8 +1,8 @@
 {
     "routes": {
-    "/*.html": "index.html",
-    "/login/*": "login.html"
-    "/sample/*": "sample.html"
+    "/": "index.html",
+    "/login/": "login.html"
+    "/sample/": "sample.html"
   }
   "headers": {
     "/*": {
